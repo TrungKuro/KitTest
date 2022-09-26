@@ -1,16 +1,24 @@
 {
-  "name": "familiar-eye-wriggle-xy7nd",
-  "productName": "familiar-eye-wriggle-xy7nd",
-  "description": "My Electron application description",
+  "name": "my-kit-test-app",
+  "productName": "KitTest",
+  "description": "...",
   "keywords": [],
   "main": "./main.js",
   "version": "1.0.0",
-  "author": "Admin",
+  "author": "TrungKuro",
   "scripts": {
     "start": "electron ."
   },
-  "dependencies": {},
   "devDependencies": {
-    "electron": "20.1.4"
-  }
+    "electron": "^20.1.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TrungKuro/KitTest.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TrungKuro/KitTest/issues"
+  },
+  "homepage": "https://github.com/TrungKuro/KitTest#readme"
 }
